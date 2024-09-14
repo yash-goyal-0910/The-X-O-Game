@@ -1,4 +1,5 @@
 #include <iostream>
+using namespace std;
 void prnt(){
-    std::cout<<"help";
+    cout<<"help";
 }
