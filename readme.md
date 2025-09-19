@@ -5,9 +5,6 @@
 A sophisticated implementation of the classic Tic-Tac-Toe game featuring AI opponent, multiplayer mode, and save/resume functionality. Built with Python and SQLite for a seamless gaming experience.
 
 ![Python](https://img.shields.io/badge/Python-100%25-blue)
-![Stars](https://img.shields.io/github/stars/yash-goyal-0910/The-X-O-Game)
-![Forks](https://img.shields.io/github/forks/yash-goyal-0910/The-X-O-Game)
-![License](https://img.shields.io/github/license/yash-goyal-0910/The-X-O-Game)
 
 ## 🎥 Demo
 
